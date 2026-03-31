@@ -30,7 +30,6 @@ Parallel execution
 Multi-agent systems
 
 
-## HoW AI Works
 
-<img src="blob:https://gemini.google.com/91b2f021-ee0d-4351-a6c0-75a8ef841d90">
+
 
