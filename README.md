@@ -28,6 +28,9 @@ Error handling
 Parallel execution
 ### 🔴 Advanced
 Multi-agent systems
-Tool usage
-Memory integration
-Real-world AI workflows
+
+
+## HoW AI Works
+
+<img src="blob:https://gemini.google.com/91b2f021-ee0d-4351-a6c0-75a8ef841d90">
+
