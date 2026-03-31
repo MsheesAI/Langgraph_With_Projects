@@ -12,6 +12,13 @@ Conditional flows 🔀
 Parallel execution ⚡
 Multi-agent systems 🤖
 Persistent state workflows 🧠
+
+# Example of Node Graph And Edges
+
+<img src=https://i.ytimg.com/vi/cUfLrn3TM3M/maxresdefault.jpg>
+
+
+
 ## 🎯 What You’ll Learn
 
 This repository covers:
